@@ -1,16 +1,24 @@
-# bouncing_ball_flutter
+https://user-images.githubusercontent.com/78636409/229401132-fb2a335f-6f2d-419a-8767-4736025cb59e.mp4
 
-A new Flutter project.
+## bouncing_ball
 
-## Getting Started
+This is a simple Flutter application that creates a bouncing ball using the Flutter Animations library. 
 
-This project is a starting point for a Flutter application.
+### Installation and Setup
 
-A few resources to get you started if this is your first Flutter project:
+To use this application, you need to have Flutter installed on your system. You can install Flutter by following the instructions on the Flutter website.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Once you have Flutter installed, you can clone this repository and open it in your favorite editor. Then, run the following command :
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+flutter pub get
+```
+
+### Running the Application
+
+To run the application, you can use the following command:
+```sh
+flutter run
+```
+
+This will start the Flutter application and you should see a bouncing ball on the screen. You can experiment with the code and modify the ball's behavior to your liking.
